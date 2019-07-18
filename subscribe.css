@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Indie Flower', cursive;
 }
 
 hr {
@@ -39,7 +39,8 @@ header.startup h1 {
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  color: black;
 }
 
 .btn-xl {
@@ -56,4 +57,4 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-  
+ 
