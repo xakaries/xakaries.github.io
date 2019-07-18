@@ -45,16 +45,20 @@ header.startup h1 {
 
 .btn-xl {
   padding: 1rem 2rem; 
+  position: center;
 }
 
 .btn-primary {
   background-color: #F05F44;
-  border-color: #F05F44; }
+  border-color: #F05F44; 
+  object-position: center;
+}
 
 .btn-primary:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
+  object-position: center;
 }
  
