@@ -1,0 +1,126 @@
+.nav{
+	width: 100%
+	height: 26px;
+	color: black;
+	text-align: center;
+	cursor: pointer;
+	float: right;
+	margin-top: 0;
+	font-family: 'Comfortaa', cursive;
+	text-decoration: none;
+}
+
+.fa {
+height: 30px;
+  padding: 10px;
+  font-size:50px;
+  width:100%;
+  text-align: center;
+  text-decoration: none;
+ 
+}
+	.fa:hover {
+		color: grey;
+	  opacity: 0.7;
+}
+
+.fa-facebook {
+
+  color: black;
+}
+.fa-twitter {
+  color: black;
+}
+.fa-instagram{
+	color:black;
+}
+.fa-youtube{
+	color:black;
+}
+.nav-link{
+	color: black;
+
+}
+.nav-link:hover{
+	color: red;
+	border: none;
+
+}
+
+.center
+{
+	height: 600px;
+	width:600px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+		margin-top: 10%
+}
+h3{
+	text-align: center;
+	color: #2c2a2a;
+    font-size: 30px;
+    font-family:'Montserrat', sans-serif;
+    text-transform: uppercase;
+    line-height: 34px;
+    display: inline-block;
+    clear: both;
+    overflow: hidden;
+    border-bottom: 1px #e63d3d solid;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+
+}
+.wrapper{
+max-width: 800PX;
+    margin: 0 auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: black;
+	text-align: left;
+	cursor: progress;
+	text-transform: capitalize;
+	line-height: 20px;
+	font-size: 15px;
+	font-family: inherit;
+}
+
+
+.btn{
+	background-color: #e65f3d;
+	height:31px;
+	width: 100px;
+	display: block;
+	cursor: pointer;
+	color: white;
+	text-align: center;
+
+}
+.textarea{
+	width: 591px;
+	height: 110px;
+}
+label{
+	margin-bottom: 10px;
+	font-family: arial;
+}
+.message{
+	margin-top: 20px;
+	line-height: 20px;
+	margin-bottom: 10px;
+	color: grey;
+	font-size: small;
+}
+
+footer{
+	clear: both;
+	margin-top: 20%;
+	text-align: center;
+	border:30px solid grey;
+	background-color: grey;
+
+}
+
+#inputName{
+	width:50%;
+}

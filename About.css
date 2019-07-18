@@ -1,0 +1,96 @@
+h3{
+	color: black;
+	text-align: left;
+	text-transform: capitalize;
+	line-height: 25px;
+	font-size: 2em;
+	font-family: 'Indie Flower', cursive;
+	text-decoration: underline red;
+	width: 200px;
+	margin-top: 50px;
+
+}
+.nav{
+	width: 100%
+	height: 26px;
+	color: black;
+	text-align: center;
+	cursor: pointer;
+	float: right;
+	margin-top: 0;
+	font-family: 'Comfortaa', cursive;
+	text-decoration: none;
+}
+
+.fa {
+height: 30px;
+  padding: 10px;
+  font-size:50px;
+  width:100%;
+  text-align: center;
+  text-decoration: none;
+ 
+}
+	.fa:hover {
+		color: grey;
+	  opacity: 0.7;
+}
+
+.fa-facebook {
+
+  color: black;
+}
+.fa-twitter {
+  color: black;
+}
+.fa-instagram{
+	color:black;
+}
+.fa-youtube{
+	color:black;
+}
+.nav-link{
+	color: black;
+
+}
+.nav-link:hover{
+	color: red;
+	border: none;
+
+}
+
+
+
+
+.bioimage{
+	float: right;
+
+}
+footer{
+	clear: both;
+	margin-top: 20%;
+	text-align: center;
+	border:30px solid grey;
+	background-color: grey;
+
+}
+li{
+	
+	list-style:  none;
+	display: inline-block;
+	font-size: 24px;
+}
+.wrapper{
+	max-width: 800PX;
+    margin: 0 auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: black;
+	text-align: left;
+	cursor: progress;
+	text-transform: capitalize;
+	line-height: 20px;
+	font-size: 15px;
+	font-family: inherit;
+
+}
