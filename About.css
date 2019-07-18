@@ -1,15 +1,3 @@
-h3{
-	color: black;
-	text-align: left;
-	text-transform: capitalize;
-	line-height: 25px;
-	font-size: 2em;
-	font-family: 'Indie Flower', cursive;
-	text-decoration: underline red;
-	width: 200px;
-	margin-top: 50px;
-
-}
 .nav{
 	width: 100%
 	height: 26px;
@@ -56,6 +44,20 @@ height: 30px;
 .nav-link:hover{
 	color: red;
 	border: none;
+
+}
+
+
+h3{
+	color: black;
+	text-align: left;
+	text-transform: capitalize;
+	line-height: 25px;
+	font-size: 2em;
+	font-family: 'Indie Flower', cursive;
+	text-decoration: underline red;
+	width: 200px;
+	margin-top: 50px;
 
 }
 
